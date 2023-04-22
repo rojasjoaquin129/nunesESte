@@ -1,0 +1,16 @@
+.activeClass:hover {
+    color: white;
+  }
+  
+  .datos {
+    color: rgb(180, 177, 177);
+    text-decoration: none;
+  }
+  .datos:hover {
+    color: white;
+  }
+  
+  .estacio {
+    margin-right: 20px;
+  }
+  
